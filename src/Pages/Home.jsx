@@ -22,7 +22,6 @@ function Home() {
       <ContactSection />
       <Team />
       <Clients />
-      <Footer />
     </div>
   );
 }
